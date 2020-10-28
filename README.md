@@ -3,6 +3,11 @@
 ### Olá Mundo! ~~_(Dizem que se não começar com **Hello World** o desenvolvedor não começa bem hahaha)_~~
 
 Sou Lucas, formado em Análise e Desenvolvimento de Sistemas, Pós-Graduado em Desenvolvimento de Aplicações Web.
+- 👨🏾‍💻 Desenvolvedor Web FullStack.
+- 🎨 Meu hobby é trabalhar como designer amador.
+- 🥋 Taekwondo: faixa vermelha-ponta-preta.
+- 🎧 Indie: Aurora, Marina, Florence❤️.
+- 🌈 LGBTQIA+: O B da sigla não significa biscoito.
 
 <details>
   <summary> <b> Skills </b></summary>
@@ -39,7 +44,7 @@ Sou Lucas, formado em Análise e Desenvolvimento de Sistemas, Pós-Graduado em D
 ## Outros
 ![JQuery](https://img.shields.io/badge/-JQuery-0769AD?style=flat-square&logo=jquery&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff)
-![HTML5](https://img.shields.io/badge/-HTML5-1572B6?style=flat-square&logo=html5&logoColor=fff)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff)
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json&logoColor=fff)
 </details>
 
