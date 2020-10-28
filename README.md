@@ -28,7 +28,7 @@ Sou Lucas, formado em Análise e Desenvolvimento de Sistemas, Pós-Graduado em D
 ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=fff)
 ## Frameworks
-![PhoneGap](https://img.shields.io/badge/-Phonegap/Cordova-grey?style=flat-square&logo=react&logoColor=fff)
+![PhoneGap](https://img.shields.io/badge/-Phonegap/Cordova-grey?style=flat-square)
 ![Xamarin](https://img.shields.io/badge/-Xamarin-82BC23?style=flat-square&logo=xamarin&logoColor=fff)
 ![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=fff)
 ![ReactNative](https://img.shields.io/badge/-React_Native-70CBF4?style=flat-square&logo=react&logoColor=fff)
