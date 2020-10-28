@@ -59,21 +59,21 @@ Sou Lucas, formado em Análise e Desenvolvimento de Sistemas, Pós-Graduado em D
 - Tecnico em Informatica **- 2012-2014, Escola Estadual de Ensino Fundamental e Médio “São Domingos”**
 ## Experiência Profissional
 - **4 meses – Ebase – 2019 – 2020 (Novembro de 2019 – Março de 2020)**
-  Cargo: Programador C#
+  Cargo: Programador C#.
   Principais atividades: Manutenção e criação de codigo fontes na Liguagem C#, e Asp.Net MVC,
   manipulação de arquivos HTML, CSS, JS, Banco de Dados SQL SERVER.
 - **5 meses – Cooabriel – 2019(Junho - Outubro)**
-  Cargo: Programador C#
+  Cargo: Programador C#.
   Principais atividades: Manutenção e criação de codigo fontes na Liguagem C#, e Asp.Net MVC,
   manipulação de arquivos HTML, CSS, JS, Banco de Dados SQL SERVER.
 - **4 meses – Freelancer – 2019 (Janeiro – Maio)**
-  Cargo: Freelancer
+  Cargo: Freelancer.
   Principais atividades: criação de scripts em javascript, e algumas artes.
 - **2 meses – RG System – 2017**
-  Cargo: Estagiario
+  Cargo: Estagiario.
   Principais atividades: suporte ao cliente.
 - **3 meses – MJ Informatica - 2014**
-Cargo: Estagiario
+Cargo: Estagiario.
 Principais atividades: Vendas, manutenção em computadores
 ## Qualificações e Atividades Complementares
 - **Láurea Acadêmica da turma de 2017/01 de Análise e Desenvolvimento de Sistemas;**
