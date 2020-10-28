@@ -7,21 +7,14 @@ Sou Lucas, formado em Análise e Desenvolvimento de Sistemas, Pós-Graduado em D
 
 
 <details>
-<summary><p> Formação</p></sumary>
-<br/>
+  <summary> <b> Currículo </b></summary>
+  <br>
 
 ## Formação
 - Pós em Desenvolvimento de Aplicações Web **- 2020 - UNIBF.**
 - Tecnólogo em Análise e Desenvolvimento de Sistemas **– 2015-2017, Faculdade São Gabriel da Palha.**
 - Ensino Medio completo **- 2012-2014, Escola Estadual de Ensino Fundamental e Médio “São Domingos”**
 - Tecnico em Informatica **- 2012-2014, Escola Estadual de Ensino Fundamental e Médio “São Domingos”**
-</details>
-
-<details>
-<summary><p>Experiência Profissional</p></sumary>
-<br/>
-
-
 ## Experiência Profissional
 - **4 meses – Ebase – 2019 – 2020 (Novembro de 2019 – Março de 2020)**
   Cargo: Programador C#
@@ -40,12 +33,6 @@ Sou Lucas, formado em Análise e Desenvolvimento de Sistemas, Pós-Graduado em D
 - **3 meses – MJ Informatica - 2014**
 Cargo: Estagiario
 Principais atividades: Vendas, manutenção em computadores
-</details>
-
-<details>
-<summary><p>Qualificações e Atividades Complementares</p></summary>
-<br/>
-
 ## Qualificações e Atividades Complementares
 - **Láurea Acadêmica da turma de 2017/01 de Análise e Desenvolvimento de Sistemas;**
 - Certificado de Programador concedido pela Cyber Informatica;
@@ -53,5 +40,6 @@ Principais atividades: Vendas, manutenção em computadores
 - Certificado de Programação C# com carga horaria de 117 horas pela Escola Virtual da Fundação Bradesco;
 - Certificado de Introdução ao Desenvolvimento para Windows 8 pela Microsoft Virtual Academy;
 - Certificado de Inglês 1a fase com carga horaria de 80 horas pela Planet Cursos e Eventos;
+
 </details>
 
