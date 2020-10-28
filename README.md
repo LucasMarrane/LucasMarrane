@@ -4,7 +4,44 @@
 
 Sou Lucas, formado em Análise e Desenvolvimento de Sistemas, Pós-Graduado em Desenvolvimento de Aplicações Web.
 
+<details>
+  <summary> <b> Skills </b></summary>
+  <br>
 
+## Linguagens
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=fff)
+![TypeScript](https://img.shields.io/badge/-Typescript-007ACC?style=flat-square&logo=typescript&logoColor=fff)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=fff)
+![C#](https://img.shields.io/badge/-CSharp-262577?style=flat-square&logo=C&logoColor=fff)
+![Java](https://img.shields.io/badge/-Java-E34F26?style=flat-square&logo=Java&logoColor=fff)
+![Delphi](https://img.shields.io/badge/-Delphi-A50034?style=flat-square)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=fff)
+## Pre-Processadores CSS
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=fff)
+![Less](https://img.shields.io/badge/-Less-005386?style=flat-square)
+## Ferramentas
+![VSCode](https://img.shields.io/badge/-VSCode-0085D1?style=flat-square&logo=visual-studio-code&logoColor=fff)
+![VisualStudio](https://img.shields.io/badge/-Visual_Studio-0085D1?style=flat-square&logo=visual-studio&logoColor=fff)
+![Delphi](https://img.shields.io/badge/-Delphi-A50034?style=flat-square)
+![NetBeans](https://img.shields.io/badge/-NetBeans-D9272E?style=flat-square)
+![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square)
+![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=fff)
+## Frameworks
+![PhoneGap](https://img.shields.io/badge/-Phonegap/Cordova-grey?style=flat-square&logo=react&logoColor=fff)
+![Xamarin](https://img.shields.io/badge/-Xamarin-82BC23?style=flat-square&logo=xamarin&logoColor=fff)
+![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=fff)
+![ReactNative](https://img.shields.io/badge/-React_Native-70CBF4?style=flat-square&logo=react&logoColor=fff)
+## Banco de Dados
+![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=fff)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=mysql&logoColor=fff)
+![SQLServer](https://img.shields.io/badge/-SQLServer-CC2927?style=flat-square)
+## Outros
+![JQuery](https://img.shields.io/badge/-JQuery-0769AD?style=flat-square&logo=jquery&logoColor=fff)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff)
+![HTML5](https://img.shields.io/badge/-HTML5-1572B6?style=flat-square&logo=html5&logoColor=fff)
+![JSON](https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json&logoColor=fff)
+</details>
 
 <details>
   <summary> <b> Currículo </b></summary>
