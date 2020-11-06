@@ -7,7 +7,6 @@ Sou Lucas, formado em Análise e Desenvolvimento de Sistemas, Pós-Graduado em D
 - 🎨 Meu hobby é trabalhar como designer amador.
 - 🥋 Taekwondo: faixa vermelha-ponta-preta.
 - 🎧 Indie: Aurora, Marina, Florence❤️.
-- 🌈 LGBTQIA+: O B da sigla não significa biscoito.
 
 <details>
   <summary> <b> Skills </b></summary>
