@@ -1,13 +1,12 @@
 ![capa github](https://github.com/LucasMarrane/LucasMarrane/blob/main/assets/capa.png) 
-# Lucas Marrane Siler
 
 ### Olá Mundo! ~~_(Dizem que se não começar com **Hello World** o desenvolvedor não começa bem hahaha)_~~
 
-Sou Lucas, formado em Análise e Desenvolvimento de Sistemas, Pós-Graduado em Desenvolvimento de Aplicações Web.
+Sou Lucas Marrane Siler, formado em Análise e Desenvolvimento de Sistemas, Pós-Graduado em Desenvolvimento de Aplicações Web.
 - 👨🏾‍💻 Desenvolvedor Web FullStack.
 - 🎨 Meu hobby é trabalhar como designer amador.
 - 🥋 Taekwondo: faixa vermelha-ponta-preta.
-- 🎧 Indie: Aurora, Marina, Florence❤️.
+- 🎧 Indie: Birdy, Aurora, Marina, Florence❤️.
 
 <details>
   <summary> <b> Skills </b></summary>
