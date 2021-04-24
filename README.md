@@ -1,3 +1,4 @@
+![capa github](https://github.com/LucasMarrane/LucasMarrane/blob/main/assets/capa.png) 
 # Lucas Marrane Siler
 
 ### Olá Mundo! ~~_(Dizem que se não começar com **Hello World** o desenvolvedor não começa bem hahaha)_~~
