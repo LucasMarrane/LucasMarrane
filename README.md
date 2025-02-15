@@ -52,11 +52,17 @@ Sou Lucas Marrane Siler, formado em Análise e Desenvolvimento de Sistemas, Pós
   <br>
 
 ## Formação
-- Pós em Desenvolvimento de Aplicações Web **- 2020 - UNIBF.**
+- Pós Graduando em Desenvolvimento FullStack **- 2025 - Descomplica.**
+- Especialista em Engenharia de Software **- 2024 - Descomplica.**
+- Especialista em Desenvolvimento de Aplicações Web **- 2020 - UNIBF.**
 - Tecnólogo em Análise e Desenvolvimento de Sistemas **– 2015-2017, Faculdade São Gabriel da Palha.**
 - Ensino Medio completo **- 2012-2014, Escola Estadual de Ensino Fundamental e Médio “São Domingos”**
 - Tecnico em Informatica **- 2012-2014, Escola Estadual de Ensino Fundamental e Médio “São Domingos”**
 ## Experiência Profissional
+- **RG System – 2021 (Maio) – atualmente**
+  Cargo: Programador.
+  Principais atividades: Manutenção e criação de codigo fontes na Liguagem C#, e Asp.Net MVC,
+  manipulação de arquivos HTML, CSS, JS, Banco de Dados Firebird, migração de sistemas legados (Angular, delphi, PHP) para microfrontends em React.
 - **4 meses – Ebase – 2019 – 2020 (Novembro de 2019 – Março de 2020)**
   Cargo: Programador C#.
   Principais atividades: Manutenção e criação de codigo fontes na Liguagem C#, e Asp.Net MVC,
